@@ -1,0 +1,22 @@
+.odd
+{
+    background: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#second
+{
+    color: blue;
+    font-size: 36px;
+    font-family: "Arial";
+}
+.third
+{
+    font-size: 24px;
+}
+#fourth
+{
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Helvetica";
+}
